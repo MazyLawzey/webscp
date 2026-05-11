@@ -138,5 +138,6 @@ npm run build
 ## License
 
 MIT
+MazyLawzey
 
 im waiting for your ⭐️
